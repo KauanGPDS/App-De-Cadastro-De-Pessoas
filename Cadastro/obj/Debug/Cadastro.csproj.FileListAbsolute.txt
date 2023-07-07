@@ -1,0 +1,11 @@
+C:\Users\lipih\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\lipih\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\lipih\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\lipih\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\lipih\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\lipih\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\lipih\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\lipih\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\lipih\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\lipih\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\lipih\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Cadastr1.resources
